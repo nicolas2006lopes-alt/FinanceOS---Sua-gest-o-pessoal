@@ -1,5 +1,3 @@
-# FinanceOS---Sua-gestão-pessoal
-Meu primeiro siestema de gestão financeira
 # Rigo Finance — Personal Edition V1.0
 
 Aplicativo Next.js, React e TypeScript com Better Auth, MFA TOTP e persistência criptografada em SQLite ou PostgreSQL. Contas, receitas, despesas, transferências, cartões, investimentos e metas são gerenciados manualmente. Não há conexão bancária ou dependência da Pluggy.
@@ -75,3 +73,9 @@ pnpm start
 ## Showcase mobile executivo
 
 Acesse `http://localhost:3000/demo/mobile` para a apresentação interativa do Rigo. Quatro viewports, tema claro/escuro, modo apresentação e exemplos isolados em memória. A rota principal continua em `/`. Detalhes e testes em [MOBILE-SHOWCASE.md](docs/MOBILE-SHOWCASE.md).
+
+
+
+
+
+
